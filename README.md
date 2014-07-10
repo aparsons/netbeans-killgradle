@@ -1,4 +1,4 @@
-This Netbeans plugin is a fork of the [NetbeansKillGradleButton](https://github.com/puniverse/NetbeansKillGradleButton) by [eitan101](https://github.com/eitan101). It will add buttons within the Netbeans IDE to force close Gradle processes. This is a hack because Netbeans and the Gradle Support plugin cannot currently stop running Gradle processes.
+This Netbeans plugin is a fork of the [NetbeansKillGradleButton](https://github.com/puniverse/NetbeansKillGradleButton) by [eitan101](https://github.com/eitan101). It will add buttons within the Netbeans IDE to force close Gradle processes.
 
 Use at your own risk.
 
