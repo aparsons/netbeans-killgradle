@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: net/aparsons/netbeans/killgradle/Bundle.properties
+OpenIDE-Module: net.aparsons.netbeans.killgradle
+
+
